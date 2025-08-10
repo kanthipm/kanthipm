@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&theme=radical)
 
 ![Kanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&theme=radical)
 
