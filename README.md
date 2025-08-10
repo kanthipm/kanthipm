@@ -11,9 +11,13 @@ Currently, I’m working on:
 Interests:
 Painting, Skating, Climbing, Skydiving, Travelling
 
-Interested in collaborating? Let’s connect:
-<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/4A90E2/new-post.png" width="30"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/4A90E2/linkedin.png" width="30"/></a>
+**Interested in collaborating? Let’s connect:**  
+<a href="mailto:youremail@example.com">
+  <img src="https://img.icons8.com/ios-filled/50/cccccc/new-post.png" width="30"/>
+</a>  
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+  <img src="https://img.icons8.com/ios-filled/50/cccccc/linkedin.png" width="30"/>
+</a>
 
 # Languages and Tools  
 <p>
