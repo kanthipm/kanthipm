@@ -6,7 +6,7 @@ I’m a junior at **Duke University** studying **Computer Science**, with a cert
 
 💬 Ask me about **Startups, AI, Painting, Skating, Climbing, Skydiving, Travelling**
 
-Currently working on:  
+<p><strong>Currently working on:</strong></p>
 
 📚 **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
 🩺 **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
