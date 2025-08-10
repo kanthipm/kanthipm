@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kanthi Makineedi
+# Hi 👋, I'm Kanthi
 
 **Tech Entrepreneur | AI & Full-Stack Developer | Education & Healthcare Innovator**
 
