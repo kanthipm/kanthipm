@@ -29,7 +29,7 @@ I’m a junior at **Duke University** studying **Computer Science**, with a cert
   </a>
 </p>
 
-**Languages and Tools**
+***Languages and Tools***
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
