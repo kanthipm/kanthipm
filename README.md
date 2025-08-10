@@ -2,11 +2,12 @@
 
 <h3 align="center">Tech Entrepreneur | AI & Full-Stack Developer | Education & Healthcare Innovator</h3>
 
-I’m a junior at **Duke University** studying **Computer Science**, with a **certificate in Innovation & Entrepreneurship** and a **minor in Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
+I’m a junior at **Duke University** studying **Computer Science**, with a certificate in **Innovation & Entrepreneurship** and a minor in **Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
 
-💬 Ask me about Painting, Skating, Climbing, Skydiving, Travelling
+💬 Ask me about **Painting, Skating, Climbing, Skydiving, Travelling**
 
 Currently working on:  
+
 📚 **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
 🩺 **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
