@@ -8,10 +8,10 @@ Currently, I’m working on:
 - **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
 - **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
-In my free time, I enjoy painting, skating, skydiving, and travelling!
+Interests:
+Painting, Skating, Climbing, Skydiving, Travelling
 
-If you’re interested in chatting about tech, startups, or potential collaborations, let’s connect!  
-
+Interested in collaborating? Let’s connect:
 <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/4A90E2/new-post.png" width="30"/></a>
 <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/4A90E2/linkedin.png" width="30"/></a>
 
