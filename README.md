@@ -11,11 +11,13 @@ Currently working on:
 🩺 **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
 **Interested in collaborating? Let’s connect:**  
-<a href="mailto:youremail@example.com">
-  <img src="https://img.icons8.com/ios-filled/50/cccccc/new-post.png" width="30"/>
-</a>  <a href="https://www.linkedin.com/in/your-linkedin-username">
-  <img src="https://img.icons8.com/ios-filled/50/cccccc/linkedin.png" width="30"/>
+<a href="mailto:youremail@example.com" title="Email me">
+  <img src="https://img.icons8.com/ios-filled/50/cccccc/new-post.png" width="30" alt="Email icon"/>
+</a>  
+<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer" title="LinkedIn profile">
+  <img src="https://img.icons8.com/ios-filled/50/cccccc/linkedin.png" width="30" alt="LinkedIn icon"/>
 </a>
+
 
 **Languages and Tools**
 <p>
