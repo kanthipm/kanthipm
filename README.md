@@ -4,7 +4,7 @@
 
 I’m a junior at **Duke University** studying **Computer Science**, with a certificate in **Innovation & Entrepreneurship** and a minor in **Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
 
-💬 Ask me about **Painting, Skating, Climbing, Skydiving, Travelling**
+💬 Ask me about **Edtech, AI, Painting, Skating, Climbing, Skydiving, Travelling**
 
 Currently working on:  
 
