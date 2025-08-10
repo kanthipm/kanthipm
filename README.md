@@ -10,13 +10,21 @@ Currently working on:
 📚 **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
 🩺 **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
-**Interested in collaborating? Let’s connect:**  
-<a href="mailto:youremail@example.com" title="Email me">
-  <img src="https://img.icons8.com/ios-filled/50/cccccc/new-post.png" width="30" alt="Email icon"/>
-</a>  
-<a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer" title="LinkedIn profile">
-  <img src="https://img.icons8.com/ios-filled/50/cccccc/linkedin.png" width="30" alt="LinkedIn icon"/>
-</a>
+<p><strong>Interested in collaborating? Let’s connect:</strong></p>
+
+<p>
+  <a href="mailto:kanthi.makineedi@duke.edu" title="Email Kanthi" style="text-decoration:none; color:#4A90E2; margin-right:10px;">
+    <img src="https://img.icons8.com/ios-filled/20/cccccc/new-post.png" alt="Email icon" style="vertical-align:middle;"/>  
+    Email: kanthi.makineedi@duke.edu
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/kanthi-makineedi/" target="_blank" rel="noopener noreferrer" title="Kanthi's LinkedIn" style="text-decoration:none; color:#4A90E2;">
+    <img src="https://img.icons8.com/ios-filled/20/cccccc/linkedin.png" alt="LinkedIn icon" style="vertical-align:middle;"/>  
+    LinkedIn: https://www.linkedin.com/in/kanthi-makineedi/
+  </a>
+</p>
 
 
 **Languages and Tools**
