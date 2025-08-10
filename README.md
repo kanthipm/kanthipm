@@ -9,14 +9,13 @@ Currently, I’m working on:
 - **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
 In my free time, I enjoy painting, skating, skydiving, and travelling!
+
 If you’re interested in chatting about tech, startups, or potential collaborations, let’s connect!  
 
 <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/0077B5/new-post.png" width="30"/></a>
 <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="30"/></a>
 
----
-
-## Languages and Tools  
+# Languages and Tools  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -32,7 +31,7 @@ If you’re interested in chatting about tech, startups, or potential collaborat
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" />
 </p>  
 
-## GitHub Stats  
+# GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&theme=radical)  ![Kanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&theme=radical)
 
