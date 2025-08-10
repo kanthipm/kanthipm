@@ -11,12 +11,12 @@ Currently, I’m working on:
 In my free time, I enjoy painting, skating, skydiving, and travelling!
 If you’re interested in chatting about tech, startups, or potential collaborations, let’s connect!  
 
-<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="30"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" width="30"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" width="30"/></a>
 
 ---
 
-### 🛠 Languages and Tools  
+### Languages and Tools  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -34,7 +34,7 @@ If you’re interested in chatting about tech, startups, or potential collaborat
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&theme=radical)  ![Kanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&theme=radical)
 
