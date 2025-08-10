@@ -1,41 +1,43 @@
-<!-- Banner -->
-![Banner](https://your-image-url-here.com/banner.png)
+<h1 align="center">Hi, I'm Kanthi!</h1>
 
-<h1 align="center">Hi, I'm Kanthi 👋</h1>
+<h3 align="center">Tech Entrepreneur | AI & Full-Stack Developer | Education & Healthcare Innovator</h3>
 
-<h3 align="center">Entrepreneur | Full-Stack Developer | Education & Healthcare Enthusiast</h3>
+I’m a junior at **Duke University** studying **Computer Science**, with a **certificate in Innovation & Entrepreneurship** and a **minor in Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
 
----
+Currently, I’m working on:  
+- **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
+- **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
-### 🚀 About Me
-I am a computer science student at Duke University passionate about building solutions at the intersection of technology, education, and healthcare. I enjoy working on full-stack applications, data-driven products, and innovative startup ideas that make an impact.  
+In my free time, I enjoy painting, skating, skydiving, and travelling!
+If you’re interested in chatting about tech, startups, or potential collaborations, let’s connect!  
 
-If you are interested in chatting about tech, startups, or potential collaborations, let’s connect!  
-
----
-
-### 🛠 Tech Stack
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-
-**Tools & Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-
----
-
-### 📫 Connect With Me
 <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="30"/></a>
 <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="30"/></a>
 
 ---
 
+### 🛠 Languages and Tools  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
+</p>  
+
+---
+
+### 📊 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&theme=radical)  
+![Kanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&theme=radical)
 
 ---
 
