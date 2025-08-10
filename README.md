@@ -29,10 +29,8 @@ If you’re interested in chatting about tech, startups, or potential collaborat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" />
 </p>  
-
----
 
 ## GitHub Stats  
 
