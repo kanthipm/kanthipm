@@ -4,9 +4,9 @@
 
 I’m a junior at **Duke University** studying **Computer Science**, with a **certificate in Innovation & Entrepreneurship** and a **minor in Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
 
-Currently, I’m working on:  
-- **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
-- **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
+Currently working on:  
+📚 **Readly** – A personalized learning platform turning school curricula into interactive, game-based lessons.  
+🩺 **MedPull** – An app that assists uninsured patients and reduces administrative challenges at community health centers through AI-powered translation and speech-to-text features.  
 
 Interests:
 Painting, Skating, Climbing, Skydiving, Travelling
@@ -18,7 +18,7 @@ Painting, Skating, Climbing, Skydiving, Travelling
   <img src="https://img.icons8.com/ios-filled/50/cccccc/linkedin.png" width="30"/>
 </a>
 
-# Languages and Tools  
+**Languages and Tools**
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -34,7 +34,7 @@ Painting, Skating, Climbing, Skydiving, Travelling
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" />
 </p>  
 
-# GitHub Stats  
+GitHub Stats  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&theme=radical)  ![Kanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&theme=radical)
 
