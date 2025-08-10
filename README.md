@@ -11,8 +11,8 @@ Currently, I’m working on:
 In my free time, I enjoy painting, skating, skydiving, and travelling!
 If you’re interested in chatting about tech, startups, or potential collaborations, let’s connect!  
 
-<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/new-post.png" width="30"/></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" width="30"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/0077B5/new-post.png" width="30"/></a>
+<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="30"/></a>
 
 ---
 
