@@ -33,9 +33,6 @@ Painting, Skating, Climbing, Skydiving, Travelling
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" height="40" />
 </p>  
-
-GitHub Stats  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&theme=radical)  ![Kanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&theme=radical)
 
 ---
