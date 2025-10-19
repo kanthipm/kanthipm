@@ -2,7 +2,7 @@
 
 <h3 align="center">Tech Entrepreneur | AI & Full-Stack Developer | Education & Healthcare Innovator</h3>
 
-I’m a junior at **Duke University** studying **Computer Science**, with a certificate in **Innovation & Entrepreneurship** and a minor in **Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
+I’m a junior at **Duke University** studying **Computer Science**, **Innovation & Entrepreneurship** and **Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
 
 💬 Ask me about **Startups, AI, Painting, Skating, Climbing, Skydiving, Travelling**
 
