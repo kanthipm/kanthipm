@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kanthi!</h1>
 
-<h3 align="center">Tech Entrepreneur | AI & Full-Stack Developer | Education & Healthcare Innovator</h3>
+<h3 align="center">AI & Full-Stack Developer | Education & Healthcare Entrepreneur</h3>
 
 I’m a junior at **Duke University** studying **Computer Science**, **Innovation & Entrepreneurship** and **Education**. I’m passionate about building technology that tackles challenges in **education**, **sustainability**, and **healthcare**.  
 
