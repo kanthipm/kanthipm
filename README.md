@@ -2,9 +2,7 @@
 
 <h3 align="center">AI & Full-Stack Developer | Education & Healthcare Entrepreneur</h3>
 
-I’m a junior at **Duke University** studying **Computer Science**, **Innovation & Entrepreneurship** and **Education**
-
-<p><strong>Currently building MedPull, a smarter patient intake platform for community health centers. </strong></p>
+I’m a junior at **Duke University** studying **Computer Science**, **Innovation & Entrepreneurship** and **Education**. Currently building MedPull, a smarter patient intake platform for community health centers.
 
 <p><strong>Interested in collaborating? Let’s connect:</strong></p>
 
