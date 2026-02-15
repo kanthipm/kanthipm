@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Kanthi! 👋</h1>
 
-<h3 align="center">AI & Full-Stack Developer | Education & Healthcare Entrepreneur</h3>
-
 Founder & Engineer building AI-powered tools for healthcare and education.
 
 I’m currently building MedPull, a smarter patient intake platform for community health centers.
