@@ -2,9 +2,9 @@
 
 Founder & Engineer building AI-powered tools for healthcare and education.
 
-I’m currently building MedPull, a smarter patient intake platform for community health centers.
+I’m currently building MedPull, a recovery monitoring platform for orthopedics and physical therapists.
 
-I’m a junior at Duke University studying Computer Science, Innovation & Entrepreneurship, and Education.
+I’m a senior at Duke University studying Computer Science, Innovation & Entrepreneurship, and Education.
 
 <p><strong>Interested in collaborating? Let’s connect:</strong></p>
 
