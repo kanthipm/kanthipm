@@ -6,27 +6,6 @@ I’m currently building MedPull, a recovery monitoring platform for orthopedics
 
 I’m a senior at Duke University studying Computer Science, Innovation & Entrepreneurship, and Education.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,astro,nodejs,fastapi,postgres,aws,docker,git&theme=dark&perline=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,astro,nodejs,fastapi,postgres,aws,docker,git&theme=light&perline=12">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,astro,nodejs,fastapi,postgres,aws,docker,git&theme=dark&perline=12" alt="Languages and tools" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kanthipm&theme=github-dark-blue&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kanthipm&theme=default&hide_border=true">
-    <img height="170" src="https://streak-stats.demolab.com?user=kanthipm&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=default&hide_border=true">
-    <img height="170" src="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  </picture>
-</p>
-
 <p><strong>Interested in collaborating? Let’s connect:</strong></p>
 
 <p>
@@ -43,4 +22,25 @@ I’m a senior at Duke University studying Computer Science, Innovation & Entrep
   <a href="https://www.linkedin.com/in/kanthi-makineedi/" target="_blank" rel="noopener noreferrer" title="Kanthi's LinkedIn" style="text-decoration:none; color:#4A90E2; margin-left:6px;">
     https://www.linkedin.com/in/kanthi-makineedi/
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Cswift%2Cr%2Cbash%2Cpowershell%2Chtml%2Ccss%2Creact%2Cnextjs%2Castro%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cdjango%2Candroidstudio%2Cgradle%2Csqlite%2Caws%2Cvercel%2Cnetlify%2Cgit%2Cgithub%2Cgithubactions&theme=dark&perline=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Cswift%2Cr%2Cbash%2Cpowershell%2Chtml%2Ccss%2Creact%2Cnextjs%2Castro%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cdjango%2Candroidstudio%2Cgradle%2Csqlite%2Caws%2Cvercel%2Cnetlify%2Cgit%2Cgithub%2Cgithubactions&theme=light&perline=15">
+    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Cswift%2Cr%2Cbash%2Cpowershell%2Chtml%2Ccss%2Creact%2Cnextjs%2Castro%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cdjango%2Candroidstudio%2Cgradle%2Csqlite%2Caws%2Cvercel%2Cnetlify%2Cgit%2Cgithub%2Cgithubactions&theme=dark&perline=15" alt="Languages and tools" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=default&hide_border=true">
+    <img height="180" src="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=github_dark&hide_border=true" alt="Top languages" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=default&hide_border=true">
+    <img height="180" src="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  </picture>
 </p>
