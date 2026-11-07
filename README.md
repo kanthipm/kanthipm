@@ -21,9 +21,9 @@ I’m a senior at Duke University studying Computer Science, Innovation & Entrep
     <img height="170" src="https://streak-stats.demolab.com?user=kanthipm&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=default&hide_border=true">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=default&hide_border=true">
+    <img height="170" src="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
   </picture>
 </p>
 
