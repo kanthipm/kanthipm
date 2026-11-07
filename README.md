@@ -26,9 +26,9 @@ I’m a senior at Duke University studying Computer Science, Innovation & Entrep
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Cswift%2Cr%2Cbash%2Cpowershell%2Chtml%2Ccss%2Creact%2Cnextjs%2Castro%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cdjango%2Candroidstudio%2Cgradle%2Csqlite%2Caws%2Cvercel%2Cnetlify%2Cgit%2Cgithub%2Cgithubactions&theme=dark&perline=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Cswift%2Cr%2Cbash%2Cpowershell%2Chtml%2Ccss%2Creact%2Cnextjs%2Castro%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cdjango%2Candroidstudio%2Cgradle%2Csqlite%2Caws%2Cvercel%2Cnetlify%2Cgit%2Cgithub%2Cgithubactions&theme=light&perline=15">
-    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Ckotlin%2Cswift%2Cr%2Cbash%2Cpowershell%2Chtml%2Ccss%2Creact%2Cnextjs%2Castro%2Ctailwind%2Cvite%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cdjango%2Candroidstudio%2Cgradle%2Csqlite%2Caws%2Cvercel%2Cnetlify%2Cgit%2Cgithub%2Cgithubactions&theme=dark&perline=15" alt="Languages and tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cfastapi%2Cflask%2Ckotlin%2Cswift%2Caws%2Csqlite%2Cvercel%2Cgit&theme=dark&perline=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cfastapi%2Cflask%2Ckotlin%2Cswift%2Caws%2Csqlite%2Cvercel%2Cgit&theme=light&perline=15">
+    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cfastapi%2Cflask%2Ckotlin%2Cswift%2Caws%2Csqlite%2Cvercel%2Cgit&theme=dark&perline=15" alt="Languages and tools" />
   </picture>
 </p>
 
