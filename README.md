@@ -36,11 +36,11 @@ I’m a senior at Duke University studying Computer Science, Innovation & Entrep
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&card_width=400&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=github_dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&card_width=400&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=default&hide_border=true">
-    <img align="top" src="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&card_width=400&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=github_dark&hide_border=true" alt="Top languages" />
+    <img align="top" width="49%" src="https://kanthipm-stats.vercel.app/api/top-langs/?username=kanthipm&layout=compact&card_width=400&langs_count=8&hide=html%2Ccss%2Cmdx%2Cmakefile%2Cbatchfile%2Cvbscript%2Cpurebasic%2Cprocfile&theme=github_dark&hide_border=true" alt="Top languages" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&card_width=400&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&card_width=400&include_all_commits=true&hide_rank=true&theme=default&hide_border=true">
-    <img align="top" src="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&card_width=400&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+    <img align="top" width="49%" src="https://kanthipm-stats.vercel.app/api?username=kanthipm&show_icons=true&card_width=400&include_all_commits=true&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
   </picture>
 </p>
